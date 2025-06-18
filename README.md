@@ -19,10 +19,20 @@ I'm a data analyst with a background in psychology and a passion for uncovering 
 
 ## 🧰 Tech Stack
 
-**Languages:** Python, SQL, R  
-**Libraries:** pandas, scikit-learn, seaborn, matplotlib  
-**Tools:** Power BI, Tableau, Git, VS Code, Jupyter, Azure  
-**Databases:** MySQL, SQLite
+**Languages:**  
+- Python, SQL, R, Java, C++
+
+**Libraries & Frameworks:**  
+- **Python**: pandas, NumPy, scikit-learn, seaborn, matplotlib, requests, pytest  
+- **SQL**: MySQL, T-SQL (SQL Server), SQLite  
+- **R**: ggplot2, dplyr, tidyr, readr, caret  
+- **Java**: JavaFX, JUnit, JDBC  
+- **C++**: STL (Standard Template Library), OpenCV
+
+**Tools & Platforms:**  
+- Jupyter Notebook, Google Colab, VS Code, Git & GitHub  
+- Power BI, Tableau  
+- Azure, Streamlit, Anaconda
 
 ---
 
