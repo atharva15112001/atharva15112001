@@ -47,7 +47,7 @@ I'm a data analyst with a background in psychology and a passion for uncovering 
 
 ## 🌱 Outside of Tech
 
-When I'm not coding, I'm probably weightlifting 💪, training my Labrador puppy 🐶, or hiking 🥾.  
+When I'm not coding, I'm probably weightlifting 💪, spending time with my puppy 🐶, or hiking 🥾.  
 Also a big fan of psychology, trading, and outdoor adventures.
 
 ---
