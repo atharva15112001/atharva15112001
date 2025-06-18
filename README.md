@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi there, I'm Atharva!
 
-<!--
-**atharva15112001/atharva15112001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst with a background in psychology and a passion for uncovering insights through machine learning, visualization, and predictive modeling. I'm currently pursuing a Post-Graduate Diploma in Data Science at NAIT and building hands-on projects in real estate analytics, Airbnb pricing, and more.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects I'm Proud Of
+
+- **[Airbnb Revenue Forecasting (Capstone)](https://github.com/atharva15112001/DATA-3960-Repo)**  
+  → Machine learning models (Random Forest & Gradient Boosting) predicting monthly revenue for Airbnb listings in Edmonton & surrounding areas. Includes ROI dashboards in Power BI.
+
+- **[Real Estate Sold Price Prediction](https://github.com/atharva15112001/MI-Regression-Analysis)**  
+  → Predictive modeling on cleaned housing data using regression techniques, feature engineering, and exploratory visualizations.
+
+- **[Inventory Management & Testing Framework](https://github.com/atharva15112001/Inventory-Management-and-Testing-framework)**  
+  → Object-oriented inventory system in Python with CSV input, error handling, and unit tests using `pytest`.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python, SQL, R  
+**Libraries:** pandas, scikit-learn, seaborn, matplotlib  
+**Tools:** Power BI, Tableau, Git, VS Code, Jupyter, Azure  
+**Databases:** MySQL, SQLite
+
+---
+
+## 📌 Currently Exploring
+
+- ML for housing & financial forecasting  
+- Interactive dashboards with Power BI  
+- Emotion recognition using body tracker data (VR/IMU)  
+- Learning version control, deployment & Docker basics
+
+---
+
+## 🌱 Outside of Tech
+
+When I'm not coding, I'm probably weightlifting 💪, training my Labrador puppy 🐶, or hiking 🥾.  
+Also a big fan of psychology, trading, and outdoor adventures.
+
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](www.linkedin.com/in/atharva-khatu-76a775221)  
+- Email: atharvakhatu1@hotmail.com  
+
+---
+
+> “Every line of code brings me one step closer to clarity — in data, in systems, and in life.”  
