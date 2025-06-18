@@ -54,7 +54,7 @@ Also a big fan of psychology, trading, and outdoor adventures.
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](www.linkedin.com/in/atharva-khatu-76a775221)  
+- [LinkedIn](https://www.linkedin.com/in/atharva-khatu-76a775221/) 
 - Email: atharvakhatu1@hotmail.com  
 
 ---
