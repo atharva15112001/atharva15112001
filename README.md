@@ -59,4 +59,5 @@ Also a big fan of psychology, trading, and outdoor adventures.
 
 ---
 
-> “The only thing we’re allowed to do is believe. We can’t change anything if we don’t believe. - Levi Ackerman”  
+<p align="center" style="color:#00bcd4;"><i>“The only thing we’re allowed to do is believe. We can’t change anything if we don’t believe.” – Levi Ackerman</i></p>
+ 
