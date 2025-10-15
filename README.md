@@ -59,4 +59,4 @@ Also a big fan of psychology, trading, and outdoor adventures.
 
 ---
 
-> “Every line of code brings me one step closer to clarity — in data, in systems, and in life.”  
+> “The only thing we’re allowed to do is believe. We can’t change anything if we don’t believe. - Levi Ackerman”  
